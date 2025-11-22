@@ -6,7 +6,10 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/161gl55ukRvUfIzfnGfgS-XuMubDemsZj
+View your live app: https://sawantshubham086.github.io/Universal-AI-dashboard/
+
+![Dashboard Screenshot 1](screenshots/dashboard_1.png)
+![Dashboard Screenshot 2](screenshots/dashboard_2.png)
 
 ## Run Locally
 
